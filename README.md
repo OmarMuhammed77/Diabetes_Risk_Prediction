@@ -1,4 +1,3 @@
-# Diabetes_Risk_Prediction
 # Diabetes Risk Prediction
 
 ## 📌 Project Overview
