@@ -1,4 +1,4 @@
-# Diabetes Risk Prediction 🩺
+# Diabetes Risk Prediction 
 
 A Machine Learning classification project that predicts a patient's **diabetes risk level** as **Low, Moderate, or High** based on demographic, lifestyle, and health-related features.
 
